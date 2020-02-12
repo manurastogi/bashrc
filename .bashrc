@@ -139,13 +139,10 @@ alias ghist='history | grep $1'
 #================================================
 # Path aliases
 #================================================
-export workspace='/home/manu/workspace/'
-export WORKSPACE='/home/manu/workspace/'
-export code='/home/manu/workspace/code'
-export CODE='/home/manu/workspace/code'
-export stocks='/home/manu/workspace/code/stocks'
-export STOCKS='/home/manu/workspace/code/stocks'
-
+export workspace='add your own path here'
+export WORKSPACE='add your own path here'
+export code='add your own path here'
+export CODE='add your own path here'
 
 
 
